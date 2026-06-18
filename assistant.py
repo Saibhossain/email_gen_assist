@@ -1,5 +1,6 @@
 from typing import TypedDict, Optional
 from langchain_openai import ChatOpenAI
+from langchain_ollama import ChatOllama
 from langchain_core.prompts import PromptTemplate
 from langgraph.graph import StateGraph, START, END
 from prompts import EMAIL_GENERATION_SYSTEM_PROMPT
@@ -17,8 +18,12 @@ class AssistantState(TypedDict):
 
 def generate_email_node(state: AssistantState) -> dict:
     """ LangGraph Node running our advanced generation prompt template """
-    llm = ChatOpenAI(
-        model=state.get("model_name", "gpt-4o-mini"), 
+    # llm = ChatOpenAI(
+    #     model=state.get("model_name", "gpt-4o-mini"), 
+    #     temperature=state.get("temperature", 0.2)
+    # )
+    llm = ChatOllama(
+        model=state.get("model_name", "llama3.1:8b"), 
         temperature=state.get("temperature", 0.2)
     )
     

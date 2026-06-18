@@ -12,8 +12,8 @@ def run_evaluation_pipeline():
     
     # Define our two comparative evaluation paths
     strategies = [
-        {"name": "Strategy_A_GPT4o_Mini", "model": "gpt-4o-mini", "temp": 0.1},
-        {"name": "Strategy_B_Legacy_GPT35", "model": "gpt-3.5-turbo", "temp": 0.7}
+        {"name": "Strategy_A_GPT4o_Mini", "model": "llama3.1:8b", "temp": 0.1},
+        {"name": "Strategy_B_Legacy_GPT35", "model": "llama3.1:8b", "temp": 0.7}
     ]
     
     all_results_records = []
