@@ -1,0 +1,103 @@
+{
+    "prompt_metadata": {
+        "template_char_length": 2877,
+        "total_test_scenarios_evaluated": 10
+    },
+    "aggregated_scores": {
+        "instruction_adherence_rate": 1.0,
+        "context_isolation_rate": 1.0,
+        "average_generation_efficiency_ratio": 0.39
+    },
+    "per_scenario_breakdown": [
+        {
+            "scenario_id": 1,
+            "metrics": {
+                "instruction_adherence_passed": true,
+                "few_shot_leakage_detected": false,
+                "leaked_entities": [],
+                "token_efficiency_ratio": 0.415
+            }
+        },
+        {
+            "scenario_id": 2,
+            "metrics": {
+                "instruction_adherence_passed": true,
+                "few_shot_leakage_detected": false,
+                "leaked_entities": [],
+                "token_efficiency_ratio": 0.328
+            }
+        },
+        {
+            "scenario_id": 3,
+            "metrics": {
+                "instruction_adherence_passed": true,
+                "few_shot_leakage_detected": false,
+                "leaked_entities": [],
+                "token_efficiency_ratio": 0.379
+            }
+        },
+        {
+            "scenario_id": 4,
+            "metrics": {
+                "instruction_adherence_passed": true,
+                "few_shot_leakage_detected": false,
+                "leaked_entities": [],
+                "token_efficiency_ratio": 0.319
+            }
+        },
+        {
+            "scenario_id": 5,
+            "metrics": {
+                "instruction_adherence_passed": true,
+                "few_shot_leakage_detected": false,
+                "leaked_entities": [],
+                "token_efficiency_ratio": 0.422
+            }
+        },
+        {
+            "scenario_id": 6,
+            "metrics": {
+                "instruction_adherence_passed": true,
+                "few_shot_leakage_detected": false,
+                "leaked_entities": [],
+                "token_efficiency_ratio": 0.388
+            }
+        },
+        {
+            "scenario_id": 7,
+            "metrics": {
+                "instruction_adherence_passed": true,
+                "few_shot_leakage_detected": false,
+                "leaked_entities": [],
+                "token_efficiency_ratio": 0.421
+            }
+        },
+        {
+            "scenario_id": 8,
+            "metrics": {
+                "instruction_adherence_passed": true,
+                "few_shot_leakage_detected": false,
+                "leaked_entities": [],
+                "token_efficiency_ratio": 0.371
+            }
+        },
+        {
+            "scenario_id": 9,
+            "metrics": {
+                "instruction_adherence_passed": true,
+                "few_shot_leakage_detected": false,
+                "leaked_entities": [],
+                "token_efficiency_ratio": 0.457
+            }
+        },
+        {
+            "scenario_id": 10,
+            "metrics": {
+                "instruction_adherence_passed": true,
+                "few_shot_leakage_detected": false,
+                "leaked_entities": [],
+                "token_efficiency_ratio": 0.379
+            }
+        }
+    ]
+}
