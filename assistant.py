@@ -18,14 +18,14 @@ class AssistantState(TypedDict):
 
 def generate_email_node(state: AssistantState) -> dict:
     """ LangGraph Node running our advanced generation prompt template """
-    # llm = ChatOpenAI(
-    #     model=state.get("model_name", "gpt-4o-mini"), 
-    #     temperature=state.get("temperature", 0.2)
-    # )
-    llm = ChatOllama(
-        model=state.get("model_name", "llama3.1:8b"), 
+    llm = ChatOpenAI(
+        model=state.get("model_name", "gpt-4.1-nano-2025-04-14"), 
         temperature=state.get("temperature", 0.2)
     )
+    # llm = ChatOllama(
+    #     model=state.get("model_name", "llama3.1:8b"), 
+    #     temperature=state.get("temperature", 0.2)
+    # )
     
     prompt_template = PromptTemplate.from_template(EMAIL_GENERATION_SYSTEM_PROMPT)
     formatted_prompt = prompt_template.format(
