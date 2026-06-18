@@ -1,0 +1,253 @@
+Strategy,Scenario_ID,Intent,Requested_Tone,Generated_Email,M1_Fact_Recall,M1_Reasoning,M2_Tone_Alignment,M2_Reasoning,M3_Conciseness_Format,M3_Reasoning
+Strategy_A_GPT4.1_nano,1,Follow up after a discovery call,Formal,"Subject: Follow-Up and Next Steps After Our Discovery Call
+
+Dear [Recipient's Name],
+
+I sincerely enjoyed the opportunity to learn more about your company's expansion into the APAC region during our recent call. 
+
+As discussed, I have attached our enterprise pricing sheet for your review. To further explore how our solutions can support your growth, I would like to propose a follow-up demo scheduled for next Tuesday at 2 PM EST.
+
+Please let me know if this time works for you or if there is an alternative that better fits your schedule. I look forward to continuing our conversation.
+
+Thank you once again for your time and consideration.
+
+Best regards,  
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",5,"Every key fact is explicitly included in the generated email. The email mentions the enjoyment of learning about the company's expansion into APAC, confirms the attachment of the enterprise pricing sheet, and proposes a follow-up demo for next Tuesday at 2 PM EST. There are no omissions or hallucinations present.",5,"The generated email perfectly aligns with the requested formal tone. The vocabulary is professional, the sentence structure is clear and concise, and the overall cadence is appropriate for a business context. There are no lapses in formality, and the email maintains a respectful and courteous tone throughout, making it an exemplary execution of the formal tone requested.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_A_GPT4.1_nano,2,Urgent bug fix deploy alert,Urgent,"Subject: Urgent: Deployment of Hotfix for Memory Leak Resolved
+
+Dear Team,
+
+I want to inform you that a production hotfix has been successfully deployed to address a critical memory leak issue. The deployment resulted in a system downtime of approximately 4 minutes. 
+
+We are actively monitoring the system to ensure stability. Additionally, a detailed post-mortem report will be shared with everyone tomorrow morning to provide further insights into the incident and the resolution process.
+
+Thank you for your prompt attention and cooperation.
+
+Best regards,  
+[Your Name]",5,"Every key fact is explicitly included in the email. The production hotfix deployment to patch the memory leak is mentioned, the system downtime of 4 minutes is accurately stated, and the post-mortem report will indeed be shared tomorrow morning. There are no hallucinations or ungrounded facts introduced in the email.",4,"The email effectively conveys urgency through the subject line and the opening statement about the hotfix deployment. However, the overall tone could be slightly more direct and assertive to enhance the sense of urgency. Phrases like 'I want to inform you' could be replaced with more immediate language, such as 'This is to inform you' or 'Immediate action required.' The closing, while polite, could also be more urgent in its call to action. Overall, it is mostly consistent with the urgent tone but has minor phrasing choices that feel slightly out of place.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_A_GPT4.1_nano,3,Reject a vendor proposal,Empathetic,"Subject: Appreciation for Your Proposal and Future Collaboration Opportunities
+
+Dear [Vendor Name],
+
+Thank you very much for the detailed proposal and the effort your team put into presenting your solutions. We truly appreciate your interest in partnering with us.
+
+After careful consideration, we have decided to stay with our current provider for Q3 due to budget constraints. However, we value the relationship we've built and remain open to reevaluating potential collaborations in the next fiscal year.
+
+We hope to keep the door open for future opportunities and look forward to staying in touch.
+
+Thank you again for your understanding and support.
+
+Warm regards,  
+[Your Name]  
+[Your Position]",5,"The generated email includes all key facts: it mentions the budget constraints for Q3, confirms the decision to stay with the current provider, and expresses the intention to keep the door open for future evaluations in the next fiscal year. There are no hallucinations or extraneous details introduced, ensuring complete preservation of the expected information.",4,"The email demonstrates a good level of empathy by expressing appreciation for the vendor's efforts and acknowledging the relationship built. Phrases like 'we truly appreciate' and 'thank you for your understanding and support' contribute positively to the empathetic tone. However, the mention of budget constraints and the decision to stay with the current provider could be softened further to enhance the empathetic feel, as it may come off as somewhat transactional. Overall, the tone is mostly consistent with minor areas that could be improved for a perfect execution.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_A_GPT4.1_nano,4,Internal team sync invite,Casual,"Subject: Catch-up on Mid-Year OKRs – Bring Coffee!
+
+Hey team,
+
+Just a quick heads-up for our informal catch-up to review our mid-year OKR progress. Feel free to bring your coffee and come hang out in the main breakout lounge at 11 AM.
+
+Looking forward to seeing everyone there and having a relaxed chat about how we're doing so far.
+
+Cheers,  
+[Your Name]",5,"Every key fact is explicitly included in the email. The email mentions reviewing mid-year OKR progress, encourages bringing coffee, and specifies the meeting location and time in the main breakout lounge at 11 AM. There are no omissions or hallucinations present.",5,"The generated email perfectly aligns with the requested casual tone. The use of informal language such as 'Hey team' and 'bring your coffee' creates a relaxed atmosphere. The sentence structure is conversational, and the overall cadence is friendly and inviting, making it suitable for a casual catch-up. There are no lapses or formalities that would detract from the casual tone.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_A_GPT4.1_nano,5,Request project extension approval,Formal,"Subject: Request for Project Extension Approval Due to Scope Expansion
+
+Dear [Recipient's Name],
+
+I am writing to formally request approval for an extension of our project timeline. Recently, the client expanded the scope to include a comprehensive mobile UI redesign, which necessitates additional development efforts.
+
+To accommodate this expanded scope, we require an additional 10 engineering days. As a result, we have revised our delivery target to November 20th.
+
+We appreciate your consideration of this request and look forward to your approval to ensure we can deliver a high-quality outcome that meets the updated requirements. Please let me know if you need any further details.
+
+Thank you for your support.
+
+Sincerely,  
+[Your Name]",5,"Every key fact is explicitly included in the email. The client expanding the scope to include a mobile UI redesign is clearly stated, the need for 10 additional engineering days is mentioned, and the revised delivery date target of November 20th is also included. There are no extra ungrounded facts introduced.",5,"The generated email perfectly aligns with the requested formal tone. The vocabulary is professional, the sentence structure is clear and concise, and the overall cadence is appropriate for a formal request. There are no lapses in tone, and the email maintains a respectful and courteous demeanor throughout, making it an exemplary execution of the formal tone.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_A_GPT4.1_nano,6,Congratulate employee on promotion,Empathetic,"Subject: Congratulations on Your Promotion to Senior AI Architect
+
+Dear [Employee Name],
+
+I want to extend my heartfelt congratulations on your promotion to Senior AI Architect. Your exceptional execution on the multi-agent orchestration deployment truly stood out and exemplifies the dedication and expertise you bring to our team.
+
+Your new role will officially commence starting the first of next month, and I am confident you will continue to excel and make a significant impact.
+
+Wishing you all the best as you take on this well-deserved new chapter. Please feel free to reach out if you need any support during this transition.
+
+Warm regards,  
+[Your Name]",5,"Every key fact is explicitly included in the email. The promotion to Senior AI Architect is clearly stated, the exceptional execution on the multi-agent orchestration deployment is acknowledged, and the effective start date of the new role is mentioned as the first of next month. There are no hallucinations or ungrounded facts present in the email.",4,"The email demonstrates a strong empathetic tone through warm congratulations and encouragement for the employee's new role. Phrases like 'heartfelt congratulations' and 'well-deserved new chapter' effectively convey empathy and support. However, the phrase 'I am confident you will continue to excel' could be perceived as slightly more formal and less personal, which slightly detracts from the overall empathetic tone. Overall, the email is mostly consistent with the requested tone, warranting a score of 4.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_A_GPT4.1_nano,7,Inquire about missing invoice payment,Urgent,"Subject: Urgent: Immediate Confirmation Required for Overdue Invoice #2024-89B
+
+Dear [Recipient Name],
+
+I am reaching out to urgently address the status of Invoice #2024-89B, which is now 14 days overdue. The outstanding balance on this invoice amounts to $14,500.
+
+We require confirmation of the processing status within the next 48 hours to ensure our records are accurate and to facilitate timely resolution. Your prompt attention to this matter is greatly appreciated.
+
+Please confirm receipt and provide an update at your earliest convenience.
+
+Thank you for your immediate cooperation.
+
+Best regards,  
+[Your Name]  
+[Your Position]",5,"The generated email includes all key facts: it states that Invoice #2024-89B is 14 days overdue, the total outstanding balance is $14,500, and it requests processing confirmation within 48 hours. There are no omissions or hallucinations present in the email.",5,"The generated email perfectly aligns with the requested urgent tone. The subject line clearly indicates urgency with the word 'Urgent' and emphasizes the need for immediate action. The body of the email uses direct language, specifies a deadline for response, and highlights the importance of the matter, all of which contribute to a strong sense of urgency. The vocabulary and sentence structure are appropriate for conveying the urgency without any lapses or inconsistencies.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_A_GPT4.1_nano,8,Announce annual company retreat,Casual,"Subject: Exciting News: Our Company Retreat in Lisbon!
+
+Hi Team,
+
+I’m excited to share that our annual company retreat will be happening in Lisbon, Portugal, from September 12 to 16! It’s a fantastic opportunity to connect, relax, and enjoy some great moments together.
+
+A quick heads-up: all flights need to be booked through the corporate portal by the end of this week. Make sure to secure your spot soon so you don’t miss out!
+
+Looking forward to an awesome trip with everyone. Let me know if you have any questions.
+
+Cheers,  
+[Your Name]",5,"Every key fact is explicitly included in the email. The location (Lisbon, Portugal), dates (September 12-16), and the requirement for flights to be booked through the corporate portal by the end of the week are all clearly stated without any additional ungrounded facts introduced.",4,"The email generally maintains a casual tone with friendly language and an upbeat subject line. Phrases like 'I’m excited to share' and 'Looking forward to an awesome trip' contribute to a relaxed vibe. However, the phrase 'all flights need to be booked through the corporate portal' introduces a slightly formal element that feels somewhat out of place in an otherwise casual context. Overall, it aligns well with the requested tone but has minor lapses.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_A_GPT4.1_nano,9,Request for Proposal (RFP) detailing cybersecurity services,Formal,"Subject: Request for Proposal: Cybersecurity Monitoring Solutions
+
+Dear [Vendor Name],
+
+I am reaching out to formally request a proposal for cybersecurity services, specifically focusing on SOC 2 compliance monitoring tools. 
+
+As part of our evaluation process, we require vendors to include case studies demonstrating successful deployments of similar scale. This will assist us in assessing the suitability and effectiveness of your solutions within comparable environments.
+
+Please submit your comprehensive proposal by August 1st. We appreciate your prompt attention to this request and look forward to reviewing your submission.
+
+Should you have any questions or require further clarification, please do not hesitate to contact me.
+
+Thank you for your interest and cooperation.
+
+Sincerely,  
+[Your Name]  
+[Your Position]  
+[Your Contact Information]",5,"Every key fact is explicitly included in the email. The request for SOC 2 compliance monitoring tools is clearly stated, the submission deadline of August 1st is mentioned, and the requirement for vendors to present case studies of similar scale deployments is also included. There are no hallucinations or ungrounded facts present in the email.",5,"The generated email perfectly aligns with the requested formal tone. The vocabulary is professional and appropriate for a business context, the sentence structure is clear and concise, and the overall cadence is respectful and direct. There are no lapses in formality, and the email maintains a consistent tone throughout, making it an exemplary execution of the formal tone requested.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_A_GPT4.1_nano,10,Resignation notification to manager,Formal,"Subject: Notice of Resignation and Transition Planning
+
+Dear [Manager's Name],
+
+I am writing to formally inform you that my final working day will be July 31st. I am committed to ensuring a smooth transition and will have the transition plan fully documented within this week.
+
+I would like to take this opportunity to express my sincere gratitude for your mentorship and support during my tenure. It has been a valuable experience, and I appreciate all the guidance provided.
+
+Please let me know if there are any additional steps I should take during this transition period.
+
+Thank you once again for your understanding and leadership.
+
+Sincerely,  
+[Your Name]",5,"Every key fact is explicitly included in the email. The final working day is stated as July 31st, the transition plan is mentioned to be fully documented within the week, and gratitude for mentorship during the tenure is clearly expressed. There are no additional ungrounded facts introduced.",5,"The generated email perfectly aligns with the requested formal tone. The vocabulary is appropriate, using terms like 'formally inform' and 'sincere gratitude,' which are fitting for a formal context. The sentence structure is clear and professional, maintaining a respectful cadence throughout. There are no lapses in tone, and the overall message is conveyed with the expected level of formality, making it a perfect execution.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_B_Legacy_GPT5-nano,1,Follow up after a discovery call,Formal,"Subject: Follow-up after discovery call: APAC expansion, pricing sheet, and next steps
+
+Dear [Recipient],
+
+I enjoyed learning about your expansion into APAC.
+
+I have attached our enterprise pricing sheet.
+
+We propose a follow-up demo next Tuesday at 2 PM EST.
+
+Sincerely,
+[Your Name]
+[Your Title]
+[Your Company]",5,"Every key fact is explicitly included in the generated email without any omissions or hallucinations. The email mentions the enjoyment of learning about the APAC expansion, confirms the attachment of the enterprise pricing sheet, and proposes a follow-up demo next Tuesday at 2 PM EST. There are no extra ungrounded facts introduced.",4,"The email demonstrates a mostly formal tone with appropriate vocabulary and structure. However, the phrase 'I enjoyed learning about your expansion into APAC' could be perceived as slightly informal or personal for a formal business context. Overall, it maintains a professional demeanor but has minor phrasing that feels slightly out of place.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_B_Legacy_GPT5-nano,2,Urgent bug fix deploy alert,Urgent,"Subject: Urgent: Production hotfix deployed to patch memory leak; 4-minute downtime; post-mortem tomorrow morning
+
+Dear Stakeholders,
+
+This is an urgent update: a production hotfix was deployed to patch a memory leak. The system downtime lasted 4 minutes. A post-mortem report will be shared tomorrow morning.
+
+Sincerely,
+Operations Communications",5,"Every key fact is explicitly included in the generated email without any omissions or hallucinations. The email clearly states that a production hotfix was deployed to patch a memory leak, the system downtime lasted 4 minutes, and that a post-mortem report will be shared tomorrow morning. There are no extra ungrounded facts introduced.",5,"The generated email perfectly aligns with the requested urgent tone. The subject line clearly indicates urgency with the use of 'Urgent' and provides specific details about the hotfix and downtime. The body of the email maintains a direct and concise style, emphasizing the urgency of the situation without unnecessary elaboration. The use of phrases like 'This is an urgent update' reinforces the urgency throughout the message. Overall, the vocabulary, sentence structure, and cadence are all consistent with an urgent tone.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_B_Legacy_GPT5-nano,3,Reject a vendor proposal,Empathetic,"Subject: Update on your vendor proposal
+
+Dear [Vendor Name] Team,
+
+Thank you for submitting your proposal and for the effort your team invested. I wanted to share our decision regarding your submission.
+
+Due to budget constraints for Q3, we have decided to stay with our current provider at this time. We will keep the door open for next fiscal year evaluation.
+
+We appreciate your understanding and would welcome the opportunity to reconnect as we reassess our needs in the next fiscal year.
+
+Sincerely,
+[Your Name]
+[Your Title]
+[Company]",5,"Every key fact is explicitly included in the email: the budget constraints for Q3, the decision to stay with the current provider, and the intention to keep the door open for next fiscal year evaluation. There are no omissions or hallucinations present.",4,"The email demonstrates a good level of empathy by acknowledging the vendor's effort and expressing appreciation for their understanding. However, the phrase 'due to budget constraints' could be perceived as somewhat clinical or detached, which slightly detracts from the overall empathetic tone. The closing statement about reconnecting is positive and supportive, reinforcing the empathetic approach. Overall, the email is mostly consistent with the requested tone, with only minor phrasing choices that feel slightly out of place.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_B_Legacy_GPT5-nano,4,Internal team sync invite,Casual,"Subject: You're invited: quick team sync to review mid-year OKR progress
+
+Hey team,
+
+You're invited to a quick, casual team sync to review mid-year OKR progress. Bring coffee—it's an informal setting. We'll meet in the main breakout lounge at 11 AM.
+
+See you there,
+[Your Name]",5,"Every key fact is explicitly included in the email. The email mentions reviewing mid-year OKR progress, instructs to bring coffee for an informal setting, and specifies the meeting location and time in the main breakout lounge at 11 AM. There are no omissions or hallucinations present.",5,"The email perfectly aligns with the requested casual tone. The use of informal language such as 'Hey team' and 'quick, casual team sync' creates a friendly atmosphere. The invitation to 'bring coffee' and the mention of an 'informal setting' further enhance the casual vibe. The overall structure is straightforward and relaxed, making it suitable for a casual communication style. There are no lapses in tone, and the email maintains a consistent casual feel throughout.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_B_Legacy_GPT5-nano,5,Request project extension approval,Formal,"Sorry, I can’t share my internal chain-of-thought. Here is the drafted email that adheres to the provided facts and tone.
+
+Subject: Extension Request: Scope Expansion and Revised Delivery Target
+
+Dear Stakeholders,
+
+I am writing to request approval for a project extension due to the client expanding the scope to include mobile UI redesign. To accommodate this addition, we will need 10 additional engineering days. Consequently, the revised delivery date target is November 20.
+
+We appreciate your consideration. Please let me know if you require any further detail.
+
+Sincerely,
+[Your Name]
+[Your Title]
+[Company]",5,"Every key fact is explicitly included in the email: the client expanding the scope to include mobile UI redesign, the need for 10 additional engineering days, and the revised delivery date target of November 20. There are no omissions or hallucinations present.",5,"The generated email perfectly aligns with the requested formal tone. The vocabulary is professional, the sentence structure is clear and concise, and the overall cadence is appropriate for a formal business communication. There are no lapses or informal phrases, making it an exemplary execution of the target tone.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_B_Legacy_GPT5-nano,6,Congratulate employee on promotion,Empathetic,"Subject: Congratulations on your promotion to Senior AI Architect
+
+Dear [Name],
+
+I am delighted to inform you that you have been promoted to Senior AI Architect. This achievement reflects your exceptional execution on the multi-agent orchestration deployment, and I want to personally acknowledge the impact of your work. Your effective start date will be the first of next month.
+
+If there is anything you need as you transition into this new role, please know I’m here to support you.
+
+Warm regards,
+[Your Name]
+[Title]",5,"Every key fact is explicitly included in the email. The promotion to Senior AI Architect is clearly stated, the exceptional execution on the multi-agent orchestration deployment is acknowledged, and the effective start date is specified as the first of next month. There are no additional ungrounded facts introduced.",4,"The email demonstrates a good level of empathy, particularly in the acknowledgment of the recipient's achievement and the offer of support during their transition. However, the initial congratulatory tone could be softened further to enhance the empathetic feel, as it leans slightly towards a formal announcement rather than a warm, personal message. Overall, it aligns well with the requested tone but could benefit from minor adjustments in phrasing to achieve perfect execution.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_B_Legacy_GPT5-nano,7,Inquire about missing invoice payment,Urgent,"Subject: Urgent: Overdue Invoice #2024-89B – Payment Confirmation Needed within 48 Hours
+
+Dear Accounts Team,
+
+This is an urgent notice regarding Invoice #2024-89B. The invoice is 14 days overdue, and the total outstanding balance is $14,500. Please confirm processing of this payment within 48 hours. If you require any information to finalize processing, please let us know immediately.
+
+Sincerely,
+Finance Team",5,"The generated email includes all key facts explicitly: it states that Invoice #2024-89B is 14 days overdue, the total outstanding balance is $14,500, and it requests processing confirmation within 48 hours. There are no omissions or hallucinations present in the email.",5,"The email effectively conveys an urgent tone through its subject line and content. The use of 'Urgent' in the subject line immediately captures attention. The message clearly states the overdue status of the invoice and the need for a prompt response within 48 hours, reinforcing the urgency. The vocabulary is direct and assertive, and the sentence structure is concise, which aligns perfectly with the requested tone. There are no lapses or inconsistencies, making it a perfect execution of the urgent tone.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_B_Legacy_GPT5-nano,8,Announce annual company retreat,Casual,"Subject: Our annual company retreat is headed to Lisbon (Sept 12–16)
+
+Hi team,
+
+We’re excited to announce our annual company retreat in Lisbon, Portugal, from September 12–16. Please note that flights must be booked through the corporate portal by the end of this week.
+
+Cheers,
+[Your Name]
+[Your Team/Department]",5,"Every key fact is explicitly included in the email. The location (Lisbon, Portugal), dates (September 12-16), and the requirement for booking flights through the corporate portal by the end of the week are all clearly stated without any additional ungrounded facts introduced.",3,"The email has a friendly opening and a clear announcement, which aligns with a casual tone. However, the use of 'Please note that flights must be booked through the corporate portal' introduces a more formal and directive tone that feels out of place in a casual context. Overall, the tone is somewhat inconsistent, leading to a moderate execution score.",5.0,Perfect architectural structure and semantic density balance.
+Strategy_B_Legacy_GPT5-nano,9,Request for Proposal (RFP) detailing cybersecurity services,Formal,"Subject: Request for Proposal: Cybersecurity Services – SOC 2 Compliance Monitoring Tools
+
+Dear Prospective Vendors,
+
+We are issuing a Request for Proposal (RFP) for cybersecurity services. The engagement will focus on SOC 2 compliance monitoring tools. The submission deadline is August 1st. Vendors are required to present case studies of deployments of a similar scale as part of the proposal.
+
+Please include in your submission:
+- An overview of your capabilities and approach to SOC 2 monitoring
+- Case studies of deployments at a similar scale
+- Detailed pricing and proposed implementation timelines
+- Any relevant references
+
+Submissions should be delivered via the designated submission method to the provided contact. For any questions, please reach out to the listed contact person.
+
+We appreciate your consideration and look forward to reviewing your proposals.
+
+Sincerely,
+[Your Name]
+[Title]
+[Organization]",5,"Every key fact is explicitly included in the generated email. The email clearly states the focus on SOC 2 compliance monitoring tools, specifies the submission deadline as August 1st, and requires vendors to present case studies of similar scale deployments. There are no extra ungrounded facts introduced.",5,"The generated email perfectly aligns with the requested formal tone. The vocabulary is professional and appropriate for a business context, the sentence structure is clear and concise, and the overall cadence is formal. There are no lapses in tone, and the email effectively communicates the necessary information in a respectful and professional manner.",3.5,Fails Conciseness: Bloated word-density (137 words vs Ref 80 words).
+Strategy_B_Legacy_GPT5-nano,10,Resignation notification to manager,Formal,"Subject: Resignation Notice
+
+Dear [Manager's Name],
+
+I am writing to formally resign from my position. My final working day will be July 31st. The transition plan will be fully documented this week. I am grateful for the mentorship I have received during my tenure.
+
+Sincerely,
+[Your Name]",5,"Every key fact from the expected list is explicitly included in the generated email without any omissions or hallucinations. The final working day, the documentation of the transition plan, and the expression of gratitude for mentorship are all clearly stated.",5,"The generated email perfectly aligns with the requested formal tone. The vocabulary is appropriate, the sentence structure is clear and professional, and the overall cadence is respectful and concise. There are no lapses or informal phrases, making it an exemplary formal resignation notice.",5.0,Perfect architectural structure and semantic density balance.

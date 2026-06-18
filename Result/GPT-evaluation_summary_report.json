@@ -1,0 +1,14 @@
+{
+    "Strategy_A_GPT4.1_nano": {
+        "Avg_Fact_Recall_M1": 5.0,
+        "Avg_Tone_Alignment_M2": 4.6,
+        "Avg_Conciseness_M3": 5.0,
+        "Overall_Composite_Score": 4.87
+    },
+    "Strategy_B_Legacy_GPT5-nano": {
+        "Avg_Fact_Recall_M1": 5.0,
+        "Avg_Tone_Alignment_M2": 4.5,
+        "Avg_Conciseness_M3": 4.85,
+        "Overall_Composite_Score": 4.78
+    }
+}
