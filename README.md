@@ -88,8 +88,10 @@ LANGSMITH_PROJECT="Email_assist"
 ### **1\. Run the Primary Evaluation (Model Comparison)**
 
 To test the Assistant and evaluate two different LLM strategies against the 10 test scenarios, execute:  
-python main.py
 
+```bash
+python main.py
+```
 **Execution Flow:**
 
 * The system invokes the LangGraph assistant for all 10 scenarios across the configured models.  
@@ -99,8 +101,9 @@ python main.py
 ### **2\. Run the Prompt Performance Evaluation**
 
 To strictly test the architectural robustness of the prompt template (Instruction adherence, Few-Shot isolation, Efficiency), execute:  
-python evaluate\_prompt.py
-
+```bash
+python evaluate_prompt.py
+```
 **Execution Flow:**
 
 * The system evaluates the EMAIL\_GENERATION\_SYSTEM\_PROMPT directly.  
