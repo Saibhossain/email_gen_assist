@@ -1,5 +1,3 @@
-# --- ADVANCED PROMPT ENGINEERING TEMPLATE (Chain-of-Thought + Few-Shot) ---
-
 EMAIL_GENERATION_SYSTEM_PROMPT = """You are an elite, highly adaptive Executive Communications Assistant. Your goal is to draft professional emails based on an INTENT, a set of KEY FACTS, and a requested TONE.
 
 CRITICAL INSTRUCTIONS:
